@@ -13,6 +13,4 @@ This is a simple command-line calculator written in C that evaluates arithmetic 
 ## Files
 - main.c : Handles input/output  
 - eval.c  : Contains infixToPostfix() and evalPostfix() functions  
-- tests.txt : Sample inputs and expected outputs (optional)  
-- .gitignore : To ignore compiled files (*.exe)  
 
